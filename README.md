@@ -2,6 +2,12 @@
 
 A synchronized multi-stream dashboard using React and HLS for displaying multiple RTSP camera feeds.
 
+Please Note that the second link that was again shared by team for assignment (rtsp://13.60.76.79:8554/live2) is not working. Hence, using a fallback link (rtsp://170.93.143.139/rtplive/470011e600ef003a004ee33696235daa) for assignment. This is a random link that i found over the internet just for demonstration purpose.
+
+Please find the below picture for assignment
+
+![Assignment](image.png)
+
 ## Features
 - **HLS Generation**: Node.js backend using FFmpeg to convert RTSP streams to HLS
 - **Multi-Stream Display**: Displays 6 video players in a responsive grid
