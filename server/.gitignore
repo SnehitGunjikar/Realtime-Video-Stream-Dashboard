@@ -1,0 +1,5 @@
+node_modules/
+.env
+.env.local
+public/hls/*.ts
+public/hls/*.m3u8
